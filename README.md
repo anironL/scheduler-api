@@ -124,4 +124,5 @@ Response:
     "avatar": "https://i.imgur.com/Nmx0Qxo.png"
   }
 }
-```
+
+// NOTE ADD TEST_ERROR=True to env.dev file to simulate failing tests. For some reason .env.test does not get read!
